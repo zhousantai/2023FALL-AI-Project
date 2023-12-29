@@ -1,0 +1,15 @@
+Number of finished trials: 100
+Best trial: {}
+  Value: 0.8971526147377377
+  Params: 
+    lambda_l1: 0.0001220450790990738
+    lambda_l2: 0.00029227171778729676
+    num_leaves: 91
+    feature_fraction: 0.9824939469789891
+    bagging_fraction: 0.982871483805669
+    bagging_freq: 3
+    min_child_samples: 55
+    learning_rate: 0.11838275960083297
+    max_depth: 10
+    min_data_in_leaf: 94
+    colsample_bytree: 0.9513279658945938
